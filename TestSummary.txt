@@ -1,0 +1,15 @@
+Test Summary Report
+
+Project: SauceDemo Testing
+Total Test Cases: 24
+Passed: 20
+Failed: 4
+
+ Issues Found:
+- Login username validation issue
+- Login password validation issue
+- Incomplete checkout info validation issue 
+- no products in your cart but Checkout button procceds to checkout info
+
+Conclusion:
+The system has minor to major defects that need fixing before production.
